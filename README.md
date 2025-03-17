@@ -42,3 +42,5 @@ I mainly code in Python, PHP, Java, JavaScript, JavaFX, HTML, and CSS. My goal i
 <p align="center">
 <img src="./Assets/code-manufacture.gif" alt="Coding GIF" width="500">
 </p>
+<img src="https://raw.githubusercontent.com/ilan-yehouda-dahan/ilan-yehouda-dahan/output/snake.svg" alt="Snake animation" />
+
