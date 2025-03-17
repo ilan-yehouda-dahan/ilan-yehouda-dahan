@@ -6,15 +6,8 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </div>
 
-<!--
-**SmashedFrenzy16/SmashedFrenzy16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/SmashedFrenzy16)
-[![GitHub Followers](https://img.shields.io/github/followers/SmashedFrenzy16?label=Follow&style=social)](https://github.com/SmashedFrenzy16)
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/SmashedFrenzy16.svg?style=social&label=Follow%20%40SmashedFrenzy16)](https://twitter.com/SmashedFrenzy16)
-![GitHub Stars](https://img.shields.io/github/stars/SmashedFrenzy16?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social&label=Star)
-[![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYgonjsSvGmJVyNaA4uki8Q?label=Subscribe&style=social)](https://www.youtube.com/channel/UCYgonjsSvGmJVyNaA4uki8Q?sub_confirmation=1)
-[![Gmail](https://img.shields.io/badge/-smashedfrenzy16@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smashedfrenzy16@gmail.com)](mailto:smashedfrenzy16@gmail.com)
+
+
 
 <!--
 <div align="center">
