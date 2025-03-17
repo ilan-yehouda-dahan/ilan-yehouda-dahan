@@ -42,7 +42,7 @@ I mainly code in Python, PHP, Java, JavaScript, JavaFX, HTML, and CSS. My goal i
 <p align="center">
 <img src="./Assets/code-manufacture.gif" alt="Coding GIF" width="500">
 </p>
-### Contact
+
 
 <div> 
   <a href="https://www.linkedin.com/feed/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
