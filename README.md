@@ -35,18 +35,16 @@
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="300"/>
 </div>
 
-Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a front-end developer. I joined GitHub on July 30th 2020, and started my path to create all sorts of projects that I could make for the rest of the world. I mostly work in Python, HTML and C++, building all sorts of different repositories that meet people's different needs. I also collaborate with other developers. I have been developing and curating my skills over 2 years to try and help you improve the way you use your computers. Today, after quite a bit of time on open-source coding (which a lot of the GitHub community have helped me by supporting me every step of the journey, so thanks 😀), I have got a plethora of new, high demanded projects and code for you to use all free of charge.
+Hello everyone! My name is ilan-yehouda-dahan. I am a first-year BTS SIO student, specializing in software development (SLAM). I am passionate about programming and cybersecurity and enjoy working on different types of projects that help me improve my skills and create useful applications.
+I mainly code in Python, PHP, Java, JavaScript, JavaFX, HTML, and CSS. My goal is to become a skilled developer while exploring new technologies and gaining professional experience, especially through an alternance next year.
 
 ### Other Things About Me
-
-- 🔭 I’m currently working on the [SmashedFrenzy16 Web3 Project](https://smashedfrenzy16.dao) (to configure your browser to support Web3 domains to view the homepage of the SmashedFrenzy16 Web3 Project, click [here](https://www.makeuseof.com/access-unstoppable-domains-websites/)).
-- 🌱 I’m currently learning GDScript, ethical hacking and AWS.
-- ✨ I’m looking for the best programming opportunities on GitHub, as well as contributing to common GitHub repos and projects.
-- 🤔 I’m looking for help with ethical hacking and C#.
-- 💬 Ask me about how to make attractive profile READMEs, how to code in Python and C++, how to effectively use GitHub in general and even more, which can be found on my sponsors profile! I might be able to help you.
-- 📫 How to reach me: On [GitHub](https://github.com/SmashedFrenzy16), [X (Twitter)](https://x.com/SmashedFrenzy16), [Google+](https://plus.google.com/+SmashedFrenzy16) and [Email](mailto:smashedfrenzy16@gmail.com)
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: My favourite programming language is Python!
+	•	🔭 Currently, I’m focused on learning development as part of my BTS SIO, with a particular focus on web development (HTML, CSS, JavaScript) and back-end development (PHP, Python, Java).
+	•	🌱 At the moment, I’m learning database management and improving my skills in SQL.
+	•	💼 I’m looking for projects or apprenticeship opportunities to apply what I’ve learned in class and gain professional experience.
+	•	🧑‍💻 I enjoy solving technical problems and working on group projects, especially using Git for version control.
+	•	💬 Feel free to reach out if you have any questions about web development, SQL, or programming languages like Java, Python, or PHP.
+	•	📫 You can contact me via email or my social media.
 
 <p align="center">
 <img src="./Assets/code-manufacture.gif" alt="Coding GIF" width="500">
