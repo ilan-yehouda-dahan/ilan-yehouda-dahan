@@ -4,7 +4,7 @@
   <h2>
     Hi Everyone, Welcome To My Personal GitHub Profile!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</div> 
+</div>
 
 <!--
 **SmashedFrenzy16/SmashedFrenzy16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +26,7 @@
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=SmashedFrenzy16&theme=dark&&fire=DD2727&border=DD2727&ring=DD2727&currStreakLabel=DD2727"/>-->
 <!--<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmashedFrenzy16&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true"/>-->
 
-### About Me, @SmashedFrenzy16
+### About Me, @ilan-yehouda-dahan
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Eager+Python+and+C%2B%2B+Developer;Full-Stack+Developer;3+years+of+programming+experience" alt="Typing SVG" /></a>
 
@@ -49,18 +49,3 @@ I mainly code in Python, PHP, Java, JavaScript, JavaFX, HTML, and CSS. My goal i
 <p align="center">
 <img src="./Assets/code-manufacture.gif" alt="Coding GIF" width="500">
 </p>
-
-### Profile Badges
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SmashedFrenzy16" alt="SmashedFrenzy16" /></a> </p>
-
-
- 
-<!--![snake gif](https://github.com/SmashedFrenzy16/SmashedFrenzy16/blob/output/github-contribution-grid-snake.gif)-->
- 
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/l8G8sdTRURRBANPpPR/giphy.gif"/>
-  <img src="https://media.giphy.com/media/0fz5uNPHnoVHLEhAW2/giphy.gif"/>
-</div>
